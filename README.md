@@ -8,7 +8,7 @@ Written by Dr Joseph Razzell Hollis on 2023-07-24. Details and assessment of the
 Any updates to this script will be made available online at www.github.com/Jobium/Photo-Colour-Correction/
 
 # Before starting:
-# ensure you have installed Python 3.7 (or higher) and the following packages:
+ensure you have installed Python 3.7 (or higher) and the following packages:
     os
     glob
     numpy
