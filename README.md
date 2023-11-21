@@ -18,7 +18,7 @@ ensure you have installed Python 3.7 (or higher) and the following packages:
     PIL
     scipy
     skimage
-guidance on installing python and packages can be found online at LINK
+guidance on installing python and packages can be found online at https://www.python.org/about/gettingstarted/
 
 # Instructions:
 1) ensure that your photos have the colour reference card in a consistent position and orientation
