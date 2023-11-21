@@ -40,4 +40,4 @@ guidance on installing python and packages can be found online at LINK
 3) the script can process many photos at once, as long as they are roughly consistent in the position and orientation of the colour card
 
 # Citations:
-If you use this script, please cite Razzell Hollis et al. (2023), JOURNAL, INFO.
+If you use this script, please cite Razzell Hollis et al., Methods in Ecology & Evolution (2023).
