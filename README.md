@@ -8,17 +8,8 @@ Written by Dr Joseph Razzell Hollis on 2023-07-24. Details and assessment of the
 Any updates to this script will be made available online at www.github.com/Jobium/Photo-Colour-Correction/
 
 # Before starting:
-ensure you have installed Python 3.7 (or higher) and the following packages:
-    os
-    glob
-    numpy
-    lmfit
-    colour
-    matplotlib
-    PIL
-    scipy
-    skimage
-guidance on installing python and packages can be found online at https://www.python.org/about/gettingstarted/
+ensure you have installed Python 3.7 (or higher) and the following packages: os, glob, numpy, lmfit, colour, matplotlib, PIL, scipy, skimage.
+Guidance on installing python and packages can be found online at https://www.python.org/about/gettingstarted/
 
 # Instructions:
 1) ensure that your photos have the colour reference card in a consistent position and orientation
