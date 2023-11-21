@@ -3,7 +3,7 @@ Python script for systematically colour-correcting photographs of plastic debris
 
 This script imports images that contain the X-Rite/Calibrite colour reference card and uses it to determine the necessary colour correction to bring RGB values in line with their 'true' values, independent of lighting conditions.
 
-Written by Dr Joseph Razzell Hollis on 2023-07-24. Details and assessment of the underlying methodology were published by Razzell Hollis et al. in the journal XXX on DATE (DOI: XXX). Please cite the methods paper if you use this code in your analysis.
+Written by Dr Joseph Razzell Hollis on 2023-07-24. Details and assessment of the underlying methodology were published by Razzell Hollis et al. in the journal Methods in Ecology and Evolution in 2023 (DOI: TBC). Please cite the methods paper if you use this code in your analysis.
 
 Any updates to this script will be made available online at www.github.com/Jobium/Photo-Colour-Correction/
 
